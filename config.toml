@@ -1,4 +1,4 @@
-baseURL = "https://bagamernew.github.io/quartz/"
+baseURL = "https://bagamernew.github.io/quartz/content/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
